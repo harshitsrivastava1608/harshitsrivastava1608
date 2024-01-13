@@ -2,7 +2,8 @@
 
 
  ✨  **harshitsrivastava1608** ✨
-
+   Full Name : Harshit Srivastava
+   Designation: Software Engineer @ Gemini Solutions Pvt Ltd Gurugram , India
 
 - 🔭 I’m currently working on .... Mobile App Development Projects
 - 🌱 I’m currently learning .... Android Development (Java/Kotlin) & Flutter Development (Dart)
